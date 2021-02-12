@@ -1,6 +1,9 @@
 # MPLABXProjects
 Collection of projects built using MPLAB X
 
+## Notes
+If you would like to see program on top of Program Memory view, add `-Wl,-pcode=0h` to `pic-as Global Options` -> `Additional options`
+
 ## Documentation
 - [MPLAB® XC8 PIC Assembler User's Guide for Embedded Engineers](https://ww1.microchip.com/downloads/en/DeviceDoc/XC8-PIC-Assembler-UG-for-EE-50002994A.pdf)
 - [MPLAB® XC8 PIC® Assembler User's Guide](https://ww1.microchip.com/downloads/en/DeviceDoc/MPLAB%20XC8%20PIC%20Assembler%20User%27s%20Guide%2050002974A.pdf)
